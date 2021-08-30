@@ -2,8 +2,8 @@
 - We were given the task of finding the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 --------------------------
 ## Resources
-- [June Temperature Data](/june_temps.PNG)
-- [December Temperature Data](/dec_temps.PNG)
+- ![june_temps](https://user-images.githubusercontent.com/80421977/131391479-85dda89b-2572-4444-8863-17e7f1bb23a4.PNG)
+- ![dec_temps](https://user-images.githubusercontent.com/80421977/131391459-14261f6f-64bb-48de-9e20-71b64b28d6f0.PNG)
 --------------------------
 ## Results
 - By viewing the data in the tables above for the months of June and December, you would notice a few differences in the weather. For example, the average temperature in the month of June is about 75 degrees while it is only 71 in December. 
